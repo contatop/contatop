@@ -10,7 +10,7 @@ Eu sou Ricardo Ferreira, sou Programador Front End, atualmente estou aprendendo 
 Connect with me:
 <br>
 <br>
-<a href="https://www.linkedin.com/in/ricardo-ferreira-77a22a201/"><img src="https://imagensfree.com.br/wp-content/uploads/2022/06/icone-linkedin-branco-png-5.png" alt="logo-linkedin" height="40"></a>
+<a href="https://www.linkedin.com/in/ricardo-ferreira-77a22a201/" target="_blank"><img src="https://imagensfree.com.br/wp-content/uploads/2022/06/icone-linkedin-branco-png-5.png" alt="logo-linkedin" height="40"></a>
 
 [![Ricardo Ferreira stats](https://github-readme-stats.vercel.app/api?username=contatop)](https://github.com/anuraghazra/github-readme-stats)
 

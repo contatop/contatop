@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=contatop&color=green)
 ### Hi there 👋
 
 Eu sou Ricardo Ferreira, sou Programador Front End, atualmente estou aprendendo e criando projetos com:

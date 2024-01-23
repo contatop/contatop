@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=contatop&color=green)
-### Hi there 👋
+### Hi there 👋 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" height="40"></img>
 
 Eu sou Ricardo Ferreira, sou Programador Front End, atualmente estou aprendendo e criando projetos com:
 

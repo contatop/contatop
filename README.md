@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=contatop&color=green)
 ### Hi there 👋 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" height="40"></img>
 
-Eu sou Ricardo Ferreira, sou Programador Front End, atualmente estou aprendendo e criando projetos com:
+Eu sou a Ricardo Ferreira, estou em transição de carreira para me tornar uma programador, estou apredendo e criando projetos em
 
 <img src="https://camo.githubusercontent.com/5b2407f37d124d766e325ba307c45f165a418ae72f96f4f00f05ef16b5ce1a0f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f557650767358396f4d6c4d57732f67697068792e676966" height="40"></img>**Languages and tools**:
 

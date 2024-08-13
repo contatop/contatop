@@ -16,14 +16,23 @@ Estudando Java Script:
 <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif"/>
 
 <br>
+
+FERRAMENTAS 📈
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev) 
+
+<br>
+
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif"/>
+
 
 [![Ricardo Ferreira stats](https://github-readme-stats.vercel.app/api?username=contatop)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ricardo Ferreira Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=contatop)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
 Connect with me:
 
 <a href="https://www.linkedin.com/in/ricardo-ferreira-77a22a201/" target="_blank"><img src="https://imagensfree.com.br/wp-content/uploads/2022/06/icone-linkedin-branco-png-5.png" alt="logo-linkedin" height="40"/></a>

@@ -1,9 +1,10 @@
 <img src="https://camo.githubusercontent.com/60ec1c9b17fcc14e5a177f1f7bf37bb4928c996e23ffae6569ec6525923eb498/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d31303026636f6c6f723d306537366138"/>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Olá!+👋;+Sou+Ricardo+Ferreira!;" />
+</h1>
 
 ### Hi there 👋 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" height="40"></img>
-
-Eu sou Ricardo Ferreira, estou em transição de carreira para me tornar uma programador, estou apredendo e criando projetos em
 
 ### My skills: :computer: :rocket:
 

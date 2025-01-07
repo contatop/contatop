@@ -1,9 +1,11 @@
-![](https://komarev.com/ghpvc/?username=contatop&color=green)
+<img src="https://camo.githubusercontent.com/60ec1c9b17fcc14e5a177f1f7bf37bb4928c996e23ffae6569ec6525923eb498/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d31303026636f6c6f723d306537366138"/>
+
+
 ### Hi there 👋 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" height="40"></img>
 
 Eu sou Ricardo Ferreira, estou em transição de carreira para me tornar uma programador, estou apredendo e criando projetos em
 
-<img src="https://camo.githubusercontent.com/5b2407f37d124d766e325ba307c45f165a418ae72f96f4f00f05ef16b5ce1a0f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f557650767358396f4d6c4d57732f67697068792e676966" height="40"></img>**Languages and tools**:
+### My skills: :computer: :rocket:
 
 <br>
 

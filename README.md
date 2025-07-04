@@ -38,4 +38,4 @@ FERRAMENTAS 📈
 <br>
 Connect with me:
 
-<a href="https://www.linkedin.com/in/ricardo-ferreira-77a22a201/" target="_blank"><img src="https://imagensfree.com.br/wp-content/uploads/2022/06/icone-linkedin-branco-png-5.png" alt="logo-linkedin" height="40"/></a>
+<a href="https://www.linkedin.com/in/ricardo-ferreira-77a22a201/" target="_blank"><img src="https://imagensfree.com.br/wp-content/uploads/2022/06/icone-linkedin-branco-png-5.png" alt="logo-linkedin" width="40"/></a>

@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Olá!+👋;+Sou+Ricardo+Ferreira!;" />
 </h1>
 
-### Hi there 👋 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" height="40"></img>
+### Hi there 👋 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="40"></img>
 
 ### My skills: :computer: :rocket:
 
